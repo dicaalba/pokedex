@@ -1,0 +1,1 @@
+export const MAX_POKEMOM_BY_TEAM = 6;
